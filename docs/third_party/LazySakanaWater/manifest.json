@@ -1,0 +1,690 @@
+{
+  "provider": "LazySakana",
+  "version": "1.0.0",
+  "release": "https://github.com/SakanaLazy/Water_Material_Experimentation/releases/download/v1.0.0/WaterSystem_Complete.unitypackage",
+  "sha256": "6f328f4cc2121157246e04dc6c105cc31bbb27ad7e87b3e6a72dff270f948336",
+  "license": "Custom Water System Attribution Licence",
+  "source": "https://github.com/SakanaLazy/Water_Material_Experimentation",
+  "files": [
+    {
+      "path": "Assets/Materials/Water/Shader/Hidden/WaterVolumeBackDepth.shader",
+      "sha256": "e486f1aa31838c5c87c414f3de5f9dabdc03de21852de07ad494690eeab4c679",
+      "bytes": 1591
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Hidden/WaterVolumeBackDepth.shader.meta",
+      "sha256": "1ab602770858f22ea4cdd9bab350b4eaa402151037d77b58daeba199a7006a97",
+      "bytes": 204
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeTransmission.shadersubgraph",
+      "sha256": "b4e2893083104da4e57ebbda34590c47b44b2d68fbdef37bc27f70bece514764",
+      "bytes": 121593
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeTransmission.shadersubgraph.meta",
+      "sha256": "d0c019e38382ffa7b7d7c434c46076c7e61ce3fdb65e880f0daf66ed3d642d8d",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_Caustics.shadersubgraph",
+      "sha256": "af1a65a6f01e4b71847b0cd9836df5f21ee53df7e57158d1c8bddf1a6d15563d",
+      "bytes": 50663
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_Caustics.shadersubgraph.meta",
+      "sha256": "78814d2178273b5ddedc3bc2d9c281cd982d64426ca32960886cae963f2f305e",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs.meta",
+      "sha256": "01282a821a62197edc4cb25022dcd13fcecdf6398047c26c7307b959d0a9278f",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_RefractionBlend.shadersubgraph",
+      "sha256": "5ff61b62cf2286b004ba027429a9e74c2396aff9cacf52ab3bf67c93dffb2b84",
+      "bytes": 30337
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_RefractionBlend.shadersubgraph.meta",
+      "sha256": "1df90de77c3d22d3a9bb55fd82c32005e6ffd9e844fa83fb3f339e87f1234d43",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane.meta",
+      "sha256": "322b4f86e0968112d44850f221e27459eed5ee5143dccccb4781b06607dcc67f",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_LightlyStylized_Plane.mat",
+      "sha256": "03bff68f57d46acdb094a4eb772ed4398909d961179e42aaf331cd936e39f179",
+      "bytes": 4267
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_LightlyStylized_Plane.mat.meta",
+      "sha256": "fe58e22d22ac069f79a1658788976f277b374e528e038941866cc3c3d070bdeb",
+      "bytes": 188
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneFinish.shadersubgraph",
+      "sha256": "87c967f537212830d9621a168c9ea590f61099f7995f1465a98a913d81fc23b2",
+      "bytes": 102785
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneFinish.shadersubgraph.meta",
+      "sha256": "e1054e23130d7bf35fc1e529c9d6e6b7df4ff4468427e4271583ea3717f0504f",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Masters.meta",
+      "sha256": "e74f2399bbb710566ce2bd761bb90d502d5ac5fb21e6c150183643d5f13cc040",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_Normal.shadersubgraph",
+      "sha256": "ca2ccdd6fc8c2dd9de466c401c0d16cc4412da5e3d350d4df36014e268b9f91b",
+      "bytes": 42994
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_Normal.shadersubgraph.meta",
+      "sha256": "b25ff1e5144e13bf5f78421c237b1e591773955d2ca9ba8b6f5c42a2cc9e4a81",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_SurfaceDetail.shadersubgraph",
+      "sha256": "1ce657eab7552070a3c970ec6d1496010621e1c398678d8fa39b252bf4a5d1c8",
+      "bytes": 39827
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_SurfaceDetail.shadersubgraph.meta",
+      "sha256": "424de85c52678164fa4ca883b62529f0ea7ce3253515e6d501717d9cd89d4462",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Editor/WaterSystemShaderGUI.cs",
+      "sha256": "14757954d06aac361326a99ff7092552eb879b2926b5eb7bb05891d9b1ea8d61",
+      "bytes": 3173
+    },
+    {
+      "path": "Assets/Editor/WaterSystemShaderGUI.cs.meta",
+      "sha256": "d059f94451e755f68663a0ea69da23f948e55540c0d3b2257e08c1876c42fb7a",
+      "bytes": 59
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Includes.meta",
+      "sha256": "0240ff6f5f54afc3d404c78bb7564852bd86464677c57ffe127d898f73136cfc",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Foam/SSG_Water_CoastalFoam.shadersubgraph",
+      "sha256": "f2d9aee210255b95bd65d42791d3b722bee671a6e8adae7e6eafa97750c49f29",
+      "bytes": 49222
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Foam/SSG_Water_CoastalFoam.shadersubgraph.meta",
+      "sha256": "a32b70dfe27ab0100bb9f3e23b7530c61604862f95b3db23a8ea82fc3ca48171",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Textures/Water_3/Water_Normal_3.png",
+      "sha256": "5a59d9c92d96cd3206965469c3ffa9a1a0ca4c391af32f07c7d23469183ccd31",
+      "bytes": 437649
+    },
+    {
+      "path": "Assets/Textures/Water_3/Water_Normal_3.png.meta",
+      "sha256": "f5d70e9f048725c3d9df13be55f07b443ed1f7cfd73c481dcf00d1cc39965cdc",
+      "bytes": 3071
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Foam_CrestMask.shadersubgraph",
+      "sha256": "d61bf237eb18fe48fe67c967755556fa78b807012cb76efa4b29ff6606e2bd46",
+      "bytes": 71549
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Foam_CrestMask.shadersubgraph.meta",
+      "sha256": "4ca7b212e29751cd672a026c48b935a4307adee1b7c586d30da0522b821754c3",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_VolumeDepth.shadersubgraph",
+      "sha256": "fed1ef93a13aff6e7046708d3204d96b9d16c752a3ee30adb5ec7f021188bb5f",
+      "bytes": 44896
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_VolumeDepth.shadersubgraph.meta",
+      "sha256": "a8bc3df207c46a1b76adbe197a11172e59a758a5b1b97dd45693f7530528dff6",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_LightlyStylized_Volume.mat",
+      "sha256": "c7d40be85a9f55d4ce58ec29db28644ef51f629fbaebe7ff95da1383fa52fb8a",
+      "bytes": 4303
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_LightlyStylized_Volume.mat.meta",
+      "sha256": "7c84e4aa2282da9214d0de43296ff001c1b1d4a3fc56f5b8d150445f756df5b6",
+      "bytes": 188
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Waves/SSG_Water_VolumeSwell.shadersubgraph",
+      "sha256": "fdb50da1083db8aaf3a90be536ca6789d7ff571835c422489a1c3c86b6e8e3b3",
+      "bytes": 32536
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Waves/SSG_Water_VolumeSwell.shadersubgraph.meta",
+      "sha256": "f249ec6b1d99f6f6b7a32027ac10496848a418089520cc75ae01059be849635a",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_Alpha.shadersubgraph",
+      "sha256": "93d580163d1feb19150c77cae02c86ccf5df50f5a4336299eb9f3a79e5809d46",
+      "bytes": 24930
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_Alpha.shadersubgraph.meta",
+      "sha256": "9977305447525b97641baab0300322a36cb5d4a03cbbc184fa950b99e6df920b",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume.meta",
+      "sha256": "78ef0601ac887ef2b2d6b210b955b4ea0ca4416107bc4be829747cdedbf04043",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_Realistic_Plane.mat",
+      "sha256": "558392fa6d219d211337a02ce58c60c6e303e65862645a31f14c156fc0173b7f",
+      "bytes": 4254
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_Realistic_Plane.mat.meta",
+      "sha256": "6790a77eec3c6a63fbb6ae139ec3b9963fd11227f294a071af2c87e3adde3c36",
+      "bytes": 188
+    },
+    {
+      "path": "Assets/Materials/Water/Textures/CausticsAtlas.png",
+      "sha256": "68e73a9d9a0796c65daed98ec4f074e963d10b60c94ae3672b8e7427b0804cd3",
+      "bytes": 947464
+    },
+    {
+      "path": "Assets/Materials/Water/Textures/CausticsAtlas.png.meta",
+      "sha256": "ede7956ebaec458ab80d175973d8c3b433cc59fda1a586e950f6912412b6f206",
+      "bytes": 3071
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Foam.meta",
+      "sha256": "97bbd3c5b4bee79f56a8f468595a233c802576de423daa73ad40c0a16222bb64",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Water/Documentation/LICENSE.txt",
+      "sha256": "776fcad47187290b986601e684cd63aba53f29f43f4a02396a9def9f72a5731d",
+      "bytes": 2613
+    },
+    {
+      "path": "Assets/Water/Documentation/LICENSE.txt.meta",
+      "sha256": "23e2e9a0d253de1e10046aea508d1a524dc8f0d0d3ba8340056c452f4db5004a",
+      "bytes": 158
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneWaves.shadersubgraph",
+      "sha256": "52d7e052497f31749c24d07c919b6acf4b3d24911fd920ac9c47c47931f8fc56",
+      "bytes": 69345
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneWaves.shadersubgraph.meta",
+      "sha256": "a6e0da90e81b54c79bdcfad89604fceaef03ff0373d6c5a5dace46a3abfc3f39",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Editor/WaterVolumeSetup.cs",
+      "sha256": "8b56d0954cf11c195d99e0e40be68c0677cb6f0b7a43e09a71b6d86efc3f404c",
+      "bytes": 2946
+    },
+    {
+      "path": "Assets/Editor/WaterVolumeSetup.cs.meta",
+      "sha256": "c1080747bfb9b8a0bcf63a5592b7743a99fa1292b64c6ec967e6f7ac650e5587",
+      "bytes": 59
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_PlaneDepth.shadersubgraph",
+      "sha256": "1f60c47a4dc36c58197687b7f7d59a2205cea1f2189424fe78ad63c87ea8b48d",
+      "bytes": 41161
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_PlaneDepth.shadersubgraph.meta",
+      "sha256": "1d869c5c11ed909e4e9b51c5d4bddd19b6182e202060deca8cbff03169f1187e",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeSurface.shadersubgraph",
+      "sha256": "9ffdbc3c15b3c658610a75a86cf768cebbe59d0a507574251b3981cda5f7e31b",
+      "bytes": 69162
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeSurface.shadersubgraph.meta",
+      "sha256": "d80eb24b8ad86175025f1d7b2f33565acab06658779595632dc2f53870846492",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Water/Documentation/Packages/WaterSystem_Complete.txt",
+      "sha256": "3b134ed61830d632579a0928212ce968acc4cd90a5ad6c9e13fe210a6080ca29",
+      "bytes": 1980
+    },
+    {
+      "path": "Assets/Water/Documentation/Packages/WaterSystem_Complete.txt.meta",
+      "sha256": "e3b45602a9509070d023cdeff201b44038b4da328c4ec7cf5cfb117c0b120295",
+      "bytes": 158
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_Style.shadersubgraph",
+      "sha256": "4c592ab104a68573015dd2958ec897aac321c975cc6f411f1042508cad93d52e",
+      "bytes": 40495
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_Style.shadersubgraph.meta",
+      "sha256": "ec63697dfa525770840a2c7c7ceb0b22773f5ddaa039021b82e37f92619d7899",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_Debug.shadersubgraph",
+      "sha256": "93b2389943445dd9efb7c38d77e71a7280b98d072e77c17a1400bade8dc53db5",
+      "bytes": 58961
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_Debug.shadersubgraph.meta",
+      "sha256": "01db3bfcbb74a3fc0321044ce44a321b905903aeaf6097d00453f52c8515268d",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Includes/WaterSystem.hlsl",
+      "sha256": "4480aa37a6e1541c86574715c2bce6a7a9a0325d16ad935e352c1648fcf9f203",
+      "bytes": 16754
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Includes/WaterSystem.hlsl.meta",
+      "sha256": "1981fe2ea8b37431eff8583116420dc7148cb7204289f8804060b62701a8adc0",
+      "bytes": 161
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Waves/SSG_Water_VolumeAdvection.shadersubgraph",
+      "sha256": "60e5d632c6ee04baec4e4d915e68d47dcf74e377f615e22903bd246256876bb3",
+      "bytes": 12560
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Waves/SSG_Water_VolumeAdvection.shadersubgraph.meta",
+      "sha256": "bda9762c137694daada47acdb5012272d75e5c56f01186899d0ac83103574208",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Foam/SSG_Water_CrestDetail.shadersubgraph",
+      "sha256": "f0a1f333a198b1d2aedc46ec5c33875b11d7598dfdab1339045f85d595310a4f",
+      "bytes": 37983
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Foam/SSG_Water_CrestDetail.shadersubgraph.meta",
+      "sha256": "1c2ef304811878773992762326e76c9ef85fc53fa2e0737a1fe7e910560ee649",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeWaves.shadersubgraph",
+      "sha256": "b093163c70abb6d323784788629846a743e82ff1264be7044ac2582c91b1ad52",
+      "bytes": 74362
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeWaves.shadersubgraph.meta",
+      "sha256": "31132318053db6e0413fb474d4378d80e5d9a85c329c049a491bb10b846c25d2",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Water/Documentation/Packages/Dependencies.json",
+      "sha256": "014c6edc0ec6816997acd6576715acc4a78aee11b4a74790873ae7d291cfdaea",
+      "bytes": 1077
+    },
+    {
+      "path": "Assets/Water/Documentation/Packages/Dependencies.json.meta",
+      "sha256": "2749ece6509d7c6686bf2795ef6aaec082b8127d36e09e95e4383e52a9d837bc",
+      "bytes": 158
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_RefractionUV.shadersubgraph",
+      "sha256": "15cc3fd9af1f5904491b1309ddc676012e2e63efb66f7cbb1f969e928ef89e22",
+      "bytes": 23689
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_RefractionUV.shadersubgraph.meta",
+      "sha256": "1679589020722e87a4b9152f472b79b0fec978ba12d818e499b3622ffa834630",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Hidden.meta",
+      "sha256": "d33a685d12816913311c823cc64d106f29b3ff6940dbab8af01c2283e55bb528",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Foam/SSG_Water_SurfaceFoam.shadersubgraph",
+      "sha256": "1915371a155c27bb00c5f613c6eea3492e2078ed1bdab2cf9bb848ff1524712a",
+      "bytes": 49118
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Foam/SSG_Water_SurfaceFoam.shadersubgraph.meta",
+      "sha256": "9c61569a900400c1940845e457cc12ef65cf4c505e2a34cbd96979cd31c9b353",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth.meta",
+      "sha256": "b4423a15823e4af6ead4508d4945730724944fedde9cf95330f0b1d804fd4a1e",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_WaveUV.shadersubgraph",
+      "sha256": "0b1baddc607f30a9f5da24b256bdab7d799061de0758da815e95a5b270653192",
+      "bytes": 67889
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_WaveUV.shadersubgraph.meta",
+      "sha256": "e2879be937da735a6475c873d656c92076569963d41a2c07f7438a19f4486929",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_Smoothness.shadersubgraph",
+      "sha256": "3b415bc965d167d2786c66383729bb31bc470668dd3851e35e8b1ac49d5be6c6",
+      "bytes": 40483
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_Smoothness.shadersubgraph.meta",
+      "sha256": "a0f9922594d400c448bce0f3d4f09a45b99ab2ec4915f9722e5dda1dd46ffc2f",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core.meta",
+      "sha256": "9dc0b555c4a706c1d3fa7143282ab356823b553de2e1759f440e0c5457babd1b",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Textures/Water_4/Water_Normal_4.png",
+      "sha256": "1713591671d1bb6ca4862093374357a104fea3006367acc3638343fd97da8ed3",
+      "bytes": 1897299
+    },
+    {
+      "path": "Assets/Textures/Water_4/Water_Normal_4.png.meta",
+      "sha256": "e970189b25537c8101b1036957bb36c99ff7219b0683d806c6475359cc652792",
+      "bytes": 3071
+    },
+    {
+      "path": "Assets/Textures/Water_2/Water_2.png",
+      "sha256": "50493bb4119c53b9ff2fbff6a90b438a13d1f2a99fd65dcca0cc4e1902a5adf3",
+      "bytes": 280881
+    },
+    {
+      "path": "Assets/Textures/Water_2/Water_2.png.meta",
+      "sha256": "74579125064851b714e55a376148c47f4f55bdd02620bdec330daf6bf2a50921",
+      "bytes": 3071
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_UpFacing.shadersubgraph",
+      "sha256": "4e0126a85f9ab6ba1cd985129fbfc8ca66bff2316b409d3e8fbbaaa46a4dda8c",
+      "bytes": 12369
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_UpFacing.shadersubgraph.meta",
+      "sha256": "ff254dfaca5319ff996637d91254c521f83cdfd5fc9970f8da76d688a6a1bf24",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Textures/Water_1/Water_Normal_1.png",
+      "sha256": "3fc41224ddbfb884a793fdfe3a138642b0266fa1981d1edd0316a117b8b00e9d",
+      "bytes": 418617
+    },
+    {
+      "path": "Assets/Textures/Water_1/Water_Normal_1.png.meta",
+      "sha256": "cdf6a2f2fe3866adbc589d9df897b99d0e8a4c72597a686cabd25232321d0851",
+      "bytes": 3071
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_WaveDisplacement.shadersubgraph",
+      "sha256": "fd4071ee2c1e80445e790343ebe10af691f16eacbf557c7686155728c71c4d29",
+      "bytes": 71733
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Core/SSG_Water_WaveDisplacement.shadersubgraph.meta",
+      "sha256": "db6d69bcdff939460cc52835ca73256faa196b72d827490ecab18fba52e6c716",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneSurface.shadersubgraph",
+      "sha256": "d5af82541b6d4f726107c6919785a13ee8b090c9ea6bb47259f15839bb701173",
+      "bytes": 59335
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneSurface.shadersubgraph.meta",
+      "sha256": "8af92af2d4fa3520eefa4f1fa0103022aff90df1e43ccd579bae718de7430800",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_StronglyStylized_Plane.mat",
+      "sha256": "0422a174559f7b0ad2b4905d58656f9d856c05bd99929ed8ef0c2ad78f2a4907",
+      "bytes": 4263
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_StronglyStylized_Plane.mat.meta",
+      "sha256": "266319f92250943db2b3348b8e6469d6d04547dcadd2f0992f1bd1821019ba74",
+      "bytes": 188
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_Realistic_Volume.mat",
+      "sha256": "106ffce0d255752e1fb286e0c42e97185614ac411a39f8fbc3c1eb7d40fb4773",
+      "bytes": 4289
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_Realistic_Volume.mat.meta",
+      "sha256": "488e60fe0267ca8ca50c8791db0bec7de17ed63809775f6255a30145a328452b",
+      "bytes": 188
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages.meta",
+      "sha256": "571ea9103bc43d40a70a5631bd095816c724006ccf9f79dfe510ca1b16a38748",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Waves.meta",
+      "sha256": "a8ae65f5848a54d4f342b3197427e9579c0dfc8512990b4374cb8212993ea1a9",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Water/Documentation/CREDIT.txt",
+      "sha256": "9a079e998bf66e745795aa4da9260788dde3fb25d4949c8aa75c6fd4260ef2cb",
+      "bytes": 339
+    },
+    {
+      "path": "Assets/Water/Documentation/CREDIT.txt.meta",
+      "sha256": "0f1a30f3a7590234c29cc3403380fc2a1d328a2875d32286af50777f5e5ee825",
+      "bytes": 158
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_LayeredNormals.shadersubgraph",
+      "sha256": "78e7a2b57441c680a642971b759059f3477ea1ab77de4db86242fed3245cd248",
+      "bytes": 15943
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface/SSG_Water_LayeredNormals.shadersubgraph.meta",
+      "sha256": "2c6ba0a069ac28a12dbcd348409ecf3e03a310dca9bb4b290f4e29dad237fba2",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Textures/Water_1/Water_1.png",
+      "sha256": "2a49e29e8fdaf747cd34bc5f8e8c16a7077935c3fcf7e4aed8b60680394d59c8",
+      "bytes": 142471
+    },
+    {
+      "path": "Assets/Textures/Water_1/Water_1.png.meta",
+      "sha256": "f033605fea3bf5bdd29a1357247bd0dfffba3d0c0939e6c0d8549315b839935c",
+      "bytes": 3071
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_StronglyStylized_Volume.mat",
+      "sha256": "db412885180b8af3dd6df46ec7a895d3a5a3c234ff077456ffa3d4c5a1ba398e",
+      "bytes": 4298
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_StronglyStylized_Volume.mat.meta",
+      "sha256": "28df27a6639b86e524464d04b494fc177ac8b07d13dd67f800ba09af5f6cc146",
+      "bytes": 188
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Surface.meta",
+      "sha256": "92dfb515f508a03d7519647d2437a7a246b9354220909037ed6be81e52730765",
+      "bytes": 172
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Waves/SSG_Water_PlaneSwell.shadersubgraph",
+      "sha256": "889204bcc4ea074101c5f32c6f38b4023c18b55d940b2fc9db1f5c85c7e0334c",
+      "bytes": 25211
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Waves/SSG_Water_PlaneSwell.shadersubgraph.meta",
+      "sha256": "c0b05a5e64d9d90d6997b2ba3aee3030ade2ea3d9cb0261f5d9fe0fb47ed45cc",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Foam/SSG_Water_ContactFoam.shadersubgraph",
+      "sha256": "fc9f35eef219314345dcd8a3423f56006e0e74b3c6b81124c05dfe46dea1793a",
+      "bytes": 45523
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Foam/SSG_Water_ContactFoam.shadersubgraph.meta",
+      "sha256": "4fb926475f64283f5024cfe512b0b70c9c42f3368c4a89c6f442481fa3b0dbf0",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Textures/Water_2/Water_Normal_2.png",
+      "sha256": "96d50595ca49c7d2ff3ee14590dc32ef0358108ad2a5e7f64e6bb9bf0a27e978",
+      "bytes": 881341
+    },
+    {
+      "path": "Assets/Textures/Water_2/Water_Normal_2.png.meta",
+      "sha256": "1bf1b7a100b2ac70a0da24993c375839a1536623394454271bd4c6d833dfaf77",
+      "bytes": 3071
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Masters/SG_Water_Plane.shadergraph",
+      "sha256": "af4d7d412518eaa6fbd8071bd751a2be48f9695d33abc366693cdbe64804d99e",
+      "bytes": 374410
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Masters/SG_Water_Plane.shadergraph.meta",
+      "sha256": "5117afc62f9caced6bad5f3c22c828b2a48ac6f0a0aae7df0e76e0bb18ed3323",
+      "bytes": 489
+    },
+    {
+      "path": "Assets/Water/Runtime/WaterVolumeBackDepthFeature.cs",
+      "sha256": "e0f3c1ec059dcdd8f5ce9393ff481292cc759deb48339542afa16e7dd6a988c0",
+      "bytes": 3862
+    },
+    {
+      "path": "Assets/Water/Runtime/WaterVolumeBackDepthFeature.cs.meta",
+      "sha256": "faaf9de943c84b4ca98b9ae47675fa9f89ba294d805528b17b0d2e1e6f4577b1",
+      "bytes": 59
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_Graphic_Plane.mat",
+      "sha256": "42004c44608913cd2d0a3327cebd2bd74f0266be5e267c3a0a9641ffdbb630f4",
+      "bytes": 4245
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_Graphic_Plane.mat.meta",
+      "sha256": "df6f1886e446a0ece4f33df21fb316e5907854a95bcc5ed5a066b50d5bcf946d",
+      "bytes": 188
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeFinish.shadersubgraph",
+      "sha256": "991902f38c005105416db599ebcc94aaee590e3705185791bac5a17cebd7dc82",
+      "bytes": 102785
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeFinish.shadersubgraph.meta",
+      "sha256": "9253a552843217b6d75ffd89ffeae75e4e36efaa1efc680051a0e2cf7d393ea7",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Textures/Water_4/Water_4.png",
+      "sha256": "ec987abe8210de87f52e2e569b92dbb777710ae8bdf33667d5ca9053fd1631ab",
+      "bytes": 1701478
+    },
+    {
+      "path": "Assets/Textures/Water_4/Water_4.png.meta",
+      "sha256": "0d819cc4bab40065696afb7f56aa78b9de99756887c7bc21fd60faa043854f07",
+      "bytes": 3071
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeFoam.shadersubgraph",
+      "sha256": "1ba7cde6541564c1cdc64d7e75bce130a74b373d8da86b6291dce54b2d2b366f",
+      "bytes": 219773
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Volume/SSG_Water_VolumeFoam.shadersubgraph.meta",
+      "sha256": "0fb085555e71dc54f5b8e0d600c05b2c83c6239bdff1b96da67b7d6b59e5efd7",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Textures/Water_3/Water_3.png",
+      "sha256": "f630d5348f01e5a88e017fd812faf749436af1fcceb0f9e74334dd80349c7914",
+      "bytes": 414970
+    },
+    {
+      "path": "Assets/Textures/Water_3/Water_3.png.meta",
+      "sha256": "290e293df64b2bae844440ec11437e21ac3812303739f8effec14469c63bd4a4",
+      "bytes": 3071
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneTransmission.shadersubgraph",
+      "sha256": "6cd6d265756443e8e6028a3b9e055759e8fc625f31270c245ca228ded240eabc",
+      "bytes": 118150
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneTransmission.shadersubgraph.meta",
+      "sha256": "855861529805c942523ea8b3199df5dc2b480853650358617512526d4bf19a51",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Masters/SG_Water_Volume.shadergraph",
+      "sha256": "09a8b53bb86cffe773b50b2de55869333def39fe02ec78181634afa47d98e8a8",
+      "bytes": 382668
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Masters/SG_Water_Volume.shadergraph.meta",
+      "sha256": "da3b7afae136815142be25b555ce064af0ae4b6f123cd94db799ca2650409ba0",
+      "bytes": 489
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneFoam.shadersubgraph",
+      "sha256": "52daf0bf8f631738213ed2bc25fa2b4b40806ab6739663011da0edf45fab552a",
+      "bytes": 219773
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Stages/Plane/SSG_Water_PlaneFoam.shadersubgraph.meta",
+      "sha256": "a975a8454f71125f86c3f65c179118b01a761f12dfca7b26bef097520c2e4068",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_IntersectionDepth.shadersubgraph",
+      "sha256": "8f4c022f004a0dff3d9c934dc067ded936e7842320c173580a8ae6ae8acb7e1c",
+      "bytes": 16111
+    },
+    {
+      "path": "Assets/Materials/Water/Shader/Subgraphs/Depth/SSG_Water_IntersectionDepth.shadersubgraph.meta",
+      "sha256": "a88500459516f62ea07a39fecac9746091ebc529fa65cbef8d2d1fdc8716da79",
+      "bytes": 307
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_Graphic_Volume.mat",
+      "sha256": "6b56f9ba4d949aebcdcbdcd971f6771d4f8be386dcbf7aad6737dc2b33bf924e",
+      "bytes": 4281
+    },
+    {
+      "path": "Assets/WaterShowcase/M_Water_Graphic_Volume.mat.meta",
+      "sha256": "d0c8b4b6f75f15a1d367f77bb988d45872d50c2fc9ded6a27eff160c9a538fb1",
+      "bytes": 188
+    }
+  ]
+}

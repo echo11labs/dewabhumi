@@ -1,0 +1,10 @@
+{
+    "scene": "Assets/Scenes/GopalaKathmanduWater.unity",
+    "river": "Bagmati - way/518770057",
+    "material": "Assets/Art/Environment/GopalaLandscape/Bagmati_LazySakana.mat",
+    "shader": "Water System/SG_Water_Plane",
+    "nearestRiverVertexMetres": 8.24966049194336,
+    "depthTexture": true,
+    "opaqueTexture": true,
+    "pipelineSettingsChanged": false
+}

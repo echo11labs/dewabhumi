@@ -1,0 +1,8 @@
+ambientCG materials by Lennart Demes
+Creative Commons CC0 1.0 Universal
+https://docs.ambientcg.com/license/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Free to copy, modify and redistribute, including commercial games. Attribution is not required.
+Source pages, source archive hashes and retained map hashes are in manifest.json.
+These materials are artistic surface choices, not surveyed Kathmandu geology or period vegetation.

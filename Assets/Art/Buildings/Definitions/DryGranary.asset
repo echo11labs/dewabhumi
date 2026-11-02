@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc7423709a9b07f418756ead863ac966, type: 3}
+  m_Name: DryGranary
+  m_EditorClassIdentifier: Assembly-CSharp::Dewabhumi.Settlement.BuildingDefinition
+  type: 11
+  displayName: Dry Granary (Bhakari)
+  description: Elevated storehouse on anti-vermin stone stilts to protect harvested grains, wild foods, and dried fodder from rain.
+  widthCells: 3
+  depthCells: 4
+  maxSlopeDegrees: 15
+  requiresWaterPlacement: 0
+  requiredMaterials:
+  - item: 1
+    amount: 16
+  - item: 2
+    amount: 12
+  - item: 3
+    amount: 10
+  requiredLaborTicks: 120
+  bedCapacity: 0
+  storageCapacity: 200
+  workerCapacity: 0
+  foundationPrefab: {fileID: 0}
+  framingPrefab: {fileID: 0}
+  finishedPrefab: {fileID: 0}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc7423709a9b07f418756ead863ac966, type: 3}
+  m_Name: SimpleGhar
+  m_EditorClassIdentifier: Assembly-CSharp::Dewabhumi.Settlement.BuildingDefinition
+  type: 2
+  displayName: Simple Ghar
+  description: Traditional Himalayan dwelling with whitewashed red clay walls and a steep gabled thatch roof. Houses 4 villagers.
+  widthCells: 2
+  depthCells: 3
+  maxSlopeDegrees: 15
+  requiresWaterPlacement: 0
+  requiredMaterials:
+  - item: 1
+    amount: 10
+  - item: 2
+    amount: 8
+  - item: 3
+    amount: 6
+  requiredLaborTicks: 100
+  bedCapacity: 4
+  storageCapacity: 10
+  workerCapacity: 0
+  foundationPrefab: {fileID: 0}
+  framingPrefab: {fileID: 0}
+  finishedPrefab: {fileID: 0}

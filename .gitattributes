@@ -1,0 +1,22 @@
+* text=auto
+*.cs text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.shader text eol=lf
+*.hlsl text eol=lf
+*.shadergraph text eol=lf
+*.shadersubgraph text eol=lf
+*.meta text eol=lf
+
+# Keep imported media and binary geographic rasters out of Git history packs.
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.glb filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.f32 filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+Assets/Art/Environment/KathmanduTerrainData.asset filter=lfs diff=lfs merge=lfs -text
+Assets/Art/Environment/GopalaLandscape/KathmanduRegionalLandforms.asset filter=lfs diff=lfs merge=lfs -text
+Assets/Art/Environment/GopalaLandscape/SettlementRiverPlain.asset filter=lfs diff=lfs merge=lfs -text

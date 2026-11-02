@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1953259897 &8574412962073106934
+TerrainLayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Alluvium
+  m_DiffuseTexture: {fileID: 2800000, guid: 8f857cef58ba7eb49af245a4d785867c, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 53de250b63bf0b041a09563bde9ae18c, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: bc27b39a67c9da7469a799a2ee46f519, type: 3}
+  m_TileSize: {x: 3.5, y: 3.5}
+  m_TileOffset: {x: 0.74, y: 1.22}
+  m_Specular: {r: 0, g: 0, b: 0, a: 0}
+  m_Metallic: 0
+  m_Smoothness: 0
+  m_NormalScale: 0.8
+  m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_DiffuseRemapMax: {x: 0.82, y: 0.85, z: 0.89, w: 1}
+  m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
+  m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_SmoothnessSource: 1

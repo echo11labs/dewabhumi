@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc7423709a9b07f418756ead863ac966, type: 3}
+  m_Name: DugWell
+  m_EditorClassIdentifier: Assembly-CSharp::Dewabhumi.Settlement.BuildingDefinition
+  type: 50
+  displayName: Dug Well (Kuwa)
+  description: Circular dry-stone masonry well providing fresh, clean spring water for settlers.
+  widthCells: 1
+  depthCells: 1
+  maxSlopeDegrees: 15
+  requiresWaterPlacement: 0
+  requiredMaterials:
+  - item: 2
+    amount: 12
+  - item: 1
+    amount: 4
+  requiredLaborTicks: 50
+  bedCapacity: 0
+  storageCapacity: 0
+  workerCapacity: 0
+  foundationPrefab: {fileID: 0}
+  framingPrefab: {fileID: 0}
+  finishedPrefab: {fileID: 0}

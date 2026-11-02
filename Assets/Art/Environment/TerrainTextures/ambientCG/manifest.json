@@ -1,0 +1,236 @@
+{
+  "provider": "ambientCG / Lennart Demes",
+  "retrieved": "2026-11-02",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://docs.ambientcg.com/license/",
+  "assets": [
+    {
+      "asset": "Grass004",
+      "role": "Meadow",
+      "tileMetres": 1.4,
+      "scaleNote": "Provider approximate physical dimensions",
+      "page": "https://ambientcg.com/view?id=Grass004",
+      "license": "CC0-1.0",
+      "archiveUrl": "https://ambientcg.com/get?file=Grass004_2K-JPG.zip",
+      "resolvedUrl": "https://acg-download.struffelproductions.com/file/ambientCG-Web/download/Grass004_8f7ZrdgN/Grass004_2K-JPG.zip",
+      "archiveSha256": "d7d3f08e8bb1e59aed0c3dbb85ea0b46d5308481f89b6a3fd62c0ec9e862245b",
+      "files": [
+        {
+          "path": "Grass004/Grass004_2K-JPG_AmbientOcclusion.jpg",
+          "sha256": "0f9180993db4c7b9479ad2a4b65763d90e8668fb7e800baff68cac1883a9dff5",
+          "bytes": 3659925
+        },
+        {
+          "path": "Grass004/Grass004_2K-JPG_Color.jpg",
+          "sha256": "735b141c8f1972e70a45879424f1238fea9f887324173097785f4ac36e67e9a3",
+          "bytes": 7644307
+        },
+        {
+          "path": "Grass004/Grass004_2K-JPG_Displacement.jpg",
+          "sha256": "7b3f8f545fad85bd980330dc29bb59fc5c76ea3099fb1ef2a29fb1d916f602c9",
+          "bytes": 3491166
+        },
+        {
+          "path": "Grass004/Grass004_2K-JPG_NormalGL.jpg",
+          "sha256": "15ccad231764049d6581a52076d02bb6b627df77895cb0508e4017d8a4877fef",
+          "bytes": 10015079
+        },
+        {
+          "path": "Grass004/Grass004_2K-JPG_Roughness.jpg",
+          "sha256": "c449fdf1e779eb7be5a19c1d58ee28cc155ed0523a141b151f3cbc843c4ae2e3",
+          "bytes": 3413801
+        }
+      ]
+    },
+    {
+      "asset": "Ground037",
+      "role": "WoodlandFloor",
+      "tileMetres": 2.1,
+      "scaleNote": "Provider approximate physical dimensions",
+      "page": "https://ambientcg.com/view?id=Ground037",
+      "license": "CC0-1.0",
+      "archiveUrl": "https://ambientcg.com/get?file=Ground037_2K-JPG.zip",
+      "resolvedUrl": "https://acg-download.struffelproductions.com/file/ambientCG-Web/download/Ground037_MosY1mCU/Ground037_2K-JPG.zip",
+      "archiveSha256": "defa9f880ec692eb3ef5435fd7bc7b8721c0d577f7824ea18ac68537f01ab65b",
+      "files": [
+        {
+          "path": "Ground037/Ground037_2K-JPG_AmbientOcclusion.jpg",
+          "sha256": "f8529644aff137ccc4566b7304b3e55b97bc4a8a1ada3aa92d4f5f42dac6e687",
+          "bytes": 2102448
+        },
+        {
+          "path": "Ground037/Ground037_2K-JPG_Color.jpg",
+          "sha256": "86af35a54593548543a291a54bddfd3568fd90268f8f65d0f8e743b37d714782",
+          "bytes": 8674228
+        },
+        {
+          "path": "Ground037/Ground037_2K-JPG_Displacement.jpg",
+          "sha256": "265716730968d421d685209f8155d65f3d4502e98ecd07d87ac514e5baa3762d",
+          "bytes": 1721182
+        },
+        {
+          "path": "Ground037/Ground037_2K-JPG_NormalGL.jpg",
+          "sha256": "99743f03f5f818d4a0ee3dca289d5c6f125b1e05f1e624a541455e2f7fb29eec",
+          "bytes": 10341826
+        },
+        {
+          "path": "Ground037/Ground037_2K-JPG_Roughness.jpg",
+          "sha256": "5484c117706e5937afa103c82795cbacb6c3b76d1a056b47942ca91d00efbbb9",
+          "bytes": 3058522
+        }
+      ]
+    },
+    {
+      "asset": "Ground054",
+      "role": "Alluvium",
+      "tileMetres": 3.5,
+      "scaleNote": "Provider approximate physical dimensions",
+      "page": "https://ambientcg.com/view?id=Ground054",
+      "license": "CC0-1.0",
+      "archiveUrl": "https://ambientcg.com/get?file=Ground054_2K-JPG.zip",
+      "resolvedUrl": "https://acg-download.struffelproductions.com/file/ambientCG-Web/download/Ground054_5jRbQ1OF/Ground054_2K-JPG.zip",
+      "archiveSha256": "643e7c8689bac041f17c660eff6a5459bfe0535d4466737beb0e64902b23235a",
+      "files": [
+        {
+          "path": "Ground054/Ground054_2K-JPG_AmbientOcclusion.jpg",
+          "sha256": "e2492e2ced9a853de4cf3a904848dff90c92d22e7545d0e941c4d0273670270c",
+          "bytes": 2291629
+        },
+        {
+          "path": "Ground054/Ground054_2K-JPG_Color.jpg",
+          "sha256": "9f9459ae378584f568c9da887a30ab5987890df422af5a157763a51992e61245",
+          "bytes": 6859366
+        },
+        {
+          "path": "Ground054/Ground054_2K-JPG_Displacement.jpg",
+          "sha256": "d4b7d6852246637352c58875d147f051cdde1ff58b44d14109471b1a9e062113",
+          "bytes": 1296415
+        },
+        {
+          "path": "Ground054/Ground054_2K-JPG_NormalGL.jpg",
+          "sha256": "39fd2827adfdd4fe53ad58d3ebcae686f789eb9f171d996de8356431ec6fc90d",
+          "bytes": 9053937
+        },
+        {
+          "path": "Ground054/Ground054_2K-JPG_Roughness.jpg",
+          "sha256": "2f977986be51d4e07e7a3a03051e49049f9c94cefb0246a714400d2a076c8044",
+          "bytes": 2896658
+        }
+      ]
+    },
+    {
+      "asset": "Ground048",
+      "role": "WetMeadow",
+      "tileMetres": 1.4,
+      "scaleNote": "Provider approximate physical dimensions",
+      "page": "https://ambientcg.com/view?id=Ground048",
+      "license": "CC0-1.0",
+      "archiveUrl": "https://ambientcg.com/get?file=Ground048_2K-JPG.zip",
+      "resolvedUrl": "https://acg-download.struffelproductions.com/file/ambientCG-Web/download/Ground048_JGyYoD4h/Ground048_2K-JPG.zip",
+      "archiveSha256": "8219d18b030f1b930002b35e719432997ac6356f7e100d9d5c3474d3a2965272",
+      "files": [
+        {
+          "path": "Ground048/Ground048_2K-JPG_AmbientOcclusion.jpg",
+          "sha256": "d98b5639dbfa583ec17c4572a22d7a01d606c8219749bab85c77fd11defd8bee",
+          "bytes": 3482177
+        },
+        {
+          "path": "Ground048/Ground048_2K-JPG_Color.jpg",
+          "sha256": "318d8a406a954234f9e8715d74913fcab39d5f736f0a85c18d25b6d437c1a0d1",
+          "bytes": 8557668
+        },
+        {
+          "path": "Ground048/Ground048_2K-JPG_Displacement.jpg",
+          "sha256": "49a6f9a05074963f579c2045c2c755468a2bc3c7af818fdd841add8acb3a20bc",
+          "bytes": 2270498
+        },
+        {
+          "path": "Ground048/Ground048_2K-JPG_NormalGL.jpg",
+          "sha256": "55ecc35cd86e1d6ee484de4aa4999fcc5bc36308ade0863ff08b6cd12d190f7d",
+          "bytes": 10144107
+        },
+        {
+          "path": "Ground048/Ground048_2K-JPG_Roughness.jpg",
+          "sha256": "f4703745b49ca4f6561a38f4fbd64b546c773e3e381f6465827359a7dc486030",
+          "bytes": 2649482
+        }
+      ]
+    },
+    {
+      "asset": "Rock030",
+      "role": "ExposedRock",
+      "tileMetres": 3.0,
+      "scaleNote": "Artist-selected scale",
+      "page": "https://ambientcg.com/view?id=Rock030",
+      "license": "CC0-1.0",
+      "archiveUrl": "https://ambientcg.com/get?file=Rock030_2K-JPG.zip",
+      "resolvedUrl": "https://acg-download.struffelproductions.com/file/ambientCG-Web/download/Rock030_qL2Hjn36/Rock030_2K-JPG.zip",
+      "archiveSha256": "18992ddc09f8f0cc60eceb875243c0c2449666c662ab7fedbd8bdea4b3d15a99",
+      "files": [
+        {
+          "path": "Rock030/Rock030_2K-JPG_AmbientOcclusion.jpg",
+          "sha256": "f430913d66ff94e55c384d006e0365808b304dee513db4c27eeab49385c1c265",
+          "bytes": 2102489
+        },
+        {
+          "path": "Rock030/Rock030_2K-JPG_Color.jpg",
+          "sha256": "c7169827afa47148833a3d778bd2827f12b124852efcabf3364910b1cb6d4beb",
+          "bytes": 5905796
+        },
+        {
+          "path": "Rock030/Rock030_2K-JPG_Displacement.jpg",
+          "sha256": "f78b29522ae74863c11435038efbe4795e36276cacc4823d91d754a3d04b3509",
+          "bytes": 950184
+        },
+        {
+          "path": "Rock030/Rock030_2K-JPG_NormalGL.jpg",
+          "sha256": "bf4b029b98fc771887e80807e28f97488c3a8936369152bd1020b2535415a5af",
+          "bytes": 10244967
+        },
+        {
+          "path": "Rock030/Rock030_2K-JPG_Roughness.jpg",
+          "sha256": "a057169aa693438170a969249eb7e1113078f04c38b3fc2766fdccf21d5a918f",
+          "bytes": 2506870
+        }
+      ]
+    },
+    {
+      "asset": "Grass003",
+      "role": "DryGrass",
+      "tileMetres": 1.4,
+      "scaleNote": "Provider approximate physical dimensions",
+      "page": "https://ambientcg.com/view?id=Grass003",
+      "license": "CC0-1.0",
+      "archiveUrl": "https://ambientcg.com/get?file=Grass003_2K-JPG.zip",
+      "resolvedUrl": "https://acg-download.struffelproductions.com/file/ambientCG-Web/download/Grass003_ACR6OrV9/Grass003_2K-JPG.zip",
+      "archiveSha256": "7ccb05e97a433f99e31a183a74eeec8a50bf9e13297c6716a3a6a237c7930a59",
+      "files": [
+        {
+          "path": "Grass003/Grass003_2K-JPG_AmbientOcclusion.jpg",
+          "sha256": "f6b11b5ec2f975434d2f669f3a77699b0f13384ba013c633ed0c18d48c601434",
+          "bytes": 3662698
+        },
+        {
+          "path": "Grass003/Grass003_2K-JPG_Color.jpg",
+          "sha256": "8e0af561323475c31b645c57c8d15e97be7c3b1eaa56af1deeba95ca861767cf",
+          "bytes": 6697470
+        },
+        {
+          "path": "Grass003/Grass003_2K-JPG_Displacement.jpg",
+          "sha256": "47a245f516efa05e174b7f09f90fd12d4d2990e9f9372124b3bf1acd1bcf3c27",
+          "bytes": 3513787
+        },
+        {
+          "path": "Grass003/Grass003_2K-JPG_NormalGL.jpg",
+          "sha256": "3702ee3ac420515fd42ae31d3c24e92172a6783cfa6e55d672a524cb8c39b3ad",
+          "bytes": 10031750
+        },
+        {
+          "path": "Grass003/Grass003_2K-JPG_Roughness.jpg",
+          "sha256": "27fb018a3940583284bb616d44e72126bf23d29baf07166a7f9087ce192b8e83",
+          "bytes": 3427172
+        }
+      ]
+    }
+  ]
+}

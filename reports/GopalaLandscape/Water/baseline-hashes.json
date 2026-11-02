@@ -1,0 +1,26 @@
+[
+  {
+    "path": "Assets/Settings/Dewabhumi_URP.asset",
+    "sha256": "FF9B4BF8C99D2D7B7AD47A721313B797379C9E027606AB075C0A1207A1053EF2"
+  },
+  {
+    "path": "Assets/Settings/Dewabhumi_Renderer.asset",
+    "sha256": "0399E67B9AEF2BDD11AFADFEC55ADB6EA8E17E73BC623A3E3E68094CC77C3B7B"
+  },
+  {
+    "path": "ProjectSettings/TagManager.asset",
+    "sha256": "996628FDC904025B83606BBFBDA4FE08C0BBE916475146110E77CDC2F22C2013"
+  },
+  {
+    "path": "ProjectSettings/GraphicsSettings.asset",
+    "sha256": "11E3DAA65F8DEF8B11CD59FE66D342210EF6726BA017AEC5ECC21B66A2604EF5"
+  },
+  {
+    "path": "ProjectSettings/QualitySettings.asset",
+    "sha256": "37E5B4ABCC5ADF29EBC064CE1379D8FF77AF7DFDA0B22C014370582DA8556635"
+  },
+  {
+    "path": "Assets/Scenes/GopalaKathmandu.unity",
+    "sha256": "792130C09DF67C4E66817EAC9CC35D041C7A94A4F08DB4F961E065791DD729D2"
+  }
+]

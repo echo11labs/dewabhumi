@@ -1,0 +1,14 @@
+{
+    "scene": "Assets/Scenes/GopalaKathmandu.unity",
+    "notes": "No character, building, vegetation or rock models generated. Vegetation assets awaited. Modern DSM and waterways are geographic proxies, not a surveyed Gopala landscape.",
+    "riverReaches": 203,
+    "regionMetres": 40000.0,
+    "localMetres": 5000.0,
+    "sourceSpacingMetres": 39.0625,
+    "localSpacingMetres": 4.8828125,
+    "sourceCampElevation": 1273.318603515625,
+    "previewCampElevation": 1272.85693359375,
+    "northSource": 1543.5391845703125,
+    "southSource": 2198.932373046875,
+    "maximumBoundaryError": 0.0
+}
